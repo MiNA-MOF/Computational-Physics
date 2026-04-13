@@ -33,4 +33,6 @@ jobs:
       - name: Generate Coverage Report
         run: |
           coverage report -m
+        - name: Run tests
+        run: pytest lorenz/  # Wskaż folder, w którym są testy
       
