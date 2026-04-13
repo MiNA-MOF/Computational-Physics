@@ -1,3 +1,5 @@
+zmiany do commita
+
 [<img src="./image/README/1694220443343.png" width="250" />](./image/README/1694220443343.png)
 <img src="./Classical Mechanics/N-Body.gif" width="333" />
 
